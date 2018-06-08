@@ -1,0 +1,30 @@
+c:\users\shoaib khan\documents\visual studio 2013\Projects\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe.config
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe.config
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.pdb
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Form1.resources
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Properties.Resources.resources
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.csproj.GenerateResource.Cache
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.exe
+F:\OOSE - SE313\Labs\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.pdb
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe.config
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.exe
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.pdb
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\bin\Debug\EQUIZ.pdb
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.csprojResolveAssemblyReference.cache
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Form1.resources
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Properties.Resources.resources
+C:\Users\Rehmans\Desktop\OOSE Lab 7\EQUIZ\EQUIZ\obj\Debug\EQUIZ.csproj.GenerateResource.Cache
+E:\5th Semester\OOSE\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe.config
+E:\5th Semester\OOSE\EQUIZ\EQUIZ\obj\Debug\EQUIZ.exe
+E:\5th Semester\OOSE\EQUIZ\EQUIZ\obj\Debug\EQUIZ.pdb
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe.config
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.exe
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.pdb
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\bin\Debug\EQUIZ.exe
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\bin\Debug\EQUIZ.pdb
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.csprojResolveAssemblyReference.cache
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Form1.resources
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.Properties.Resources.resources
+E:\5th Semester\OOSE\LABBs\Solved\EQUIZ\EQUIZ\obj\Debug\EQUIZ.csproj.GenerateResource.Cache
